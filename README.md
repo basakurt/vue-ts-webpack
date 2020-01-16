@@ -1,3 +1,18 @@
-# vue-ts-webpack
+# vue-ts-webpack :package:
 
-TypeScript Vue Project & Webpack Configuration (without Vue CLI)
+Vue.js & Typescript, base on Webpack bundler (without Vue CLI)
+
+## Getting Started :hatching_chick:
+
+**Usage**
+```bash
+npm install
+```
+**Development**
+```bash
+npm start
+```
+**Production**
+```bash
+npm run build
+```
